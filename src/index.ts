@@ -10,8 +10,8 @@ export * from "./middlewares/current-user";
 export * from "./middlewares/error-handler";
 export * from "./middlewares/validation-error";
 
-export * from "./events/ticket-updated-event";
-export * from "./events/ticket-created-event";
-export * from "./events/subjects";
-export * from "./events/base-listener";
-export * from "./events/base-publisher";
+export * from "./event/ticket-updated-event";
+export * from "./event/ticket-created-event";
+export * from "./event/subjects";
+export * from "./event/base-listener";
+export * from "./event/base-publisher";
