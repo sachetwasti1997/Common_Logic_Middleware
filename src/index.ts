@@ -15,3 +15,4 @@ export * from "./event/ticket-created-event";
 export * from "./event/subjects";
 export * from "./event/base-listener";
 export * from "./event/base-publisher";
+export * from "./event/types/order-status";
